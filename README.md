@@ -19,3 +19,12 @@ Antes de iniciar:
     - sudo chown -R pi:pi /home/pi/pyTelegramApi
     - cd /home/pi/pyTelegramBotApi
     - sudo python setup.py install
+
+- Instalación en Dispositivo Inteligente
+    - Instalar Telegram
+    - Buscar @BotFather. 
+    - Escribir el comando /newbot.
+    - Ingresar el alias o nombre mostrado que será asignado al bot.
+    - Ingresar un nombre de usuario para el bot.
+    - Guardar el token generado.
+    - Buscar el bot creado por el nombre de usuario.
