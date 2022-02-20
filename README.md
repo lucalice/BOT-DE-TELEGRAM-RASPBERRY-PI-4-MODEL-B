@@ -4,6 +4,8 @@ Facultad de Ingeniería
 
 Domingo 20 de Febrero de 2022
 
+BOT TELEGRAM - RASPBERRY PI 👨🏻‍💻🤖
+
 - Creación de un bot de telegram utilizando una tarjeta raspberry pi 4 model b de 2GB de memoria RAM
 - La implementación se realizará con Python
 
