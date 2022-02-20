@@ -7,3 +7,15 @@ Faultad de Ingeniería
 Objetivo: 
 - Manejo y monitoreo remoto de Raspberry Pi y sus puertos GPIO
 mediante la programación y aplicación de Bots de Telegram
+
+
+Antes de iniciar:
+- Instalación en Raspberry
+    - sudo apt-get update && sudo apt-get upgrade -y
+    - sudo apt-get install python-setuptools
+    - sudo apt-get install python-pip
+    - sudo pip install pyTelegramBotAPI
+    - sudo apt-get install sysstat
+    - sudo chown -R pi:pi /home/pi/pyTelegramApi
+    - cd /home/pi/pyTelegramBotApi
+    - sudo python setup.py install
