@@ -19,11 +19,12 @@ Antes de iniciar:
     - sudo apt-get update && sudo apt-get upgrade -y
     - sudo apt-get install python-setuptools
     - sudo apt-get install python-pip
-    - sudo pip install pyTelegramBotAPI
+    - sudo pip install pyTelegramBotAPI ó git clone https://github.com/eternnoir/pyTelegramBotAPI.git
     - sudo apt-get install sysstat
-    - sudo chown -R pi:pi /home/pi/pyTelegramApi
-    - cd /home/pi/pyTelegramBotApi
+    - sudo chown -R pi:pi /home/pi/pyTelegramBotAPI
+    - cd /home/pi/pyTelegramBotAPI
     - sudo python setup.py install
+    - DOCUMENTATION -> https://pypi.org/project/pyTelegramBotAPI/
 
 - Instalación en Dispositivo Inteligente
     - Instalar Telegram
